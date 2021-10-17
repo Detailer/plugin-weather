@@ -1,4 +1,3 @@
-omf reload
 # Set the default temperature units to use. Options are:
 #   default
 #   celsius
