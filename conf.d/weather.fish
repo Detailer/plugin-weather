@@ -19,3 +19,4 @@ config weather -q api-key
 # invalidate the cache automatically.
 config weather -q cache-age
   or config weather -s cache-age 30
+omf reload
